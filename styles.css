@@ -11,7 +11,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 350px;
+  width: 330px;
   border-radius: 15px;
   background-color: white;
 }
@@ -19,6 +19,7 @@ body {
 .qr-code {
   width: 300px;
   border-radius: 15px;
+  margin-top: 15px;
 }
 
 .footer {
@@ -38,10 +39,13 @@ body {
 
 .top-text {
   font-weight: 700;
+  font-size: 20px;
+  color: hsl(218, 44%, 22%);
 }
 
 .bottom-text {
   font-weight: 400;
+  color: hsl(220, 15%, 55%);
 }
 
 p {
