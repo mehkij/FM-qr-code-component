@@ -35,3 +35,7 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+p {
+  font-family: "Outfit", serif;
+}
