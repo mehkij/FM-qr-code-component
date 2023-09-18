@@ -12,13 +12,13 @@ body {
   justify-content: center;
   align-items: center;
   width: 350px;
-  border-radius: 10px;
+  border-radius: 15px;
   background-color: white;
 }
 
 .qr-code {
   width: 300px;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .footer {
@@ -36,6 +36,17 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
+.top-text {
+  font-weight: 700;
+}
+
+.bottom-text {
+  font-weight: 400;
+}
+
 p {
+  text-align: center;
   font-family: "Outfit", serif;
+  font-size: 15px;
+  padding: 5px;
 }
