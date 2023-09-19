@@ -53,11 +53,13 @@ body {
 .bottom-text {
   font-weight: 400;
   color: hsl(220, 15%, 55%);
+  margin-bottom: 40px;
+  max-width: 80%;
 }
 
 p {
   text-align: center;
   font-family: "Outfit", serif;
-  font-size: 18px;
+  font-size: 15px;
   padding: 5px;
 }
