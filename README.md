@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/127.0.0.1_5500_index.html.png)
+![127 0 0 1_5500_index html](https://github.com/mehkij/FM-qr-code-component/assets/109314751/155d8200-fc71-469d-9c65-d352d67ccc96)
 
 ### Links
 
