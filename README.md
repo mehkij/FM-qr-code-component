@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-page-using-flexbox-7SmXtcPTtt)
-- Live Site URL: [Add live site URL here](https://mehkij.github.io/FM-qr-code-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-page-using-flexbox-7SmXtcPTtt)
+- Live Site URL: [GitHub Pages](https://mehkij.github.io/FM-qr-code-component/)
 
 ## My process
 
